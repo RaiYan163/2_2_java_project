@@ -1,0 +1,12 @@
+.Button
+{
+-fx-background-color:#E9E9E9;
+}
+.Button:hover
+{
+-fx-background-color: #FFBA8F ;
+}
+.Button:pressed
+{
+-fx-background-color:#FF914D;
+}
